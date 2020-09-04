@@ -25,3 +25,15 @@ Certain blocks are assigned numbers:</br>
 3. Brick
 4. Wood
 5. Cloud
+
+**The format is as follows:**
+``
+map_width map_height
+player1_spawn_x player1_spawny
+player2_spawn_x player2_spawny
+
+map_grid e.g.:
+0 0 0 0 0
+0 1 1 1 0
+0 0 0 0 0
+``
